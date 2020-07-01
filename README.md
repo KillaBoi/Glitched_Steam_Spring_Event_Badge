@@ -2,6 +2,8 @@
 Requirements for self hosting:
 - NONE, JUST UPLOAD TO YOUR OWN HOSTING PROVIDER OR EVEN RUN LOCALLY BECAUSE THAT WORKS!
 
+
+
 Requirements for Python Script:
  -PYTHON (MAKE SURE TO INSTALL IT TO PATH! ITS A TICKBOX AT THE BEGINNING OF THE INSTALLATION!)
 - You need to have at least 1000 Steam Points.
