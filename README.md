@@ -1,7 +1,7 @@
 # Glitched Steam Spring Sale 2019 Badge
 
 Requirements:
-
+PYTHON (MAKE SURE TO INSTALL IT TO PATH! ITS A TICKBOX AT THE BEGINNING OF THE INSTALLATION!)
 You need to have at least 1000 Steam Points.
 `pip install requests`
 `pip install json`
