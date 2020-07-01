@@ -15,15 +15,13 @@ Replace **key = "YOUR OAUTH TOKEN"** with your oauth token, look below for instr
 
 ## Obtaining OAUTH token:
 
-View the video [HERE](https://www.youtube.com/watch?v=0_Bf4GOFAr0)
-
-Nagivate to a emoticon that you haven't purchased yet and open it.
-
-Next, press F12 and go to Network. Clear the page so that there is nothing there.
-
-Then go ahead and purchase the item. You should see 3 requests to v1?access_token=... the access_token is your OAuth token.
-
-Use the OAuth token in this bot, replace it with "YOUR OAUTH TOKEN HERE"
+1. Go to [Steam Points Shop](https://store.steampowered.com/points/shop).
+2. Open Dev Tools (F12 or Ctrl+Shift+I) and go to the Console tab
+3. Enter and execute this:
+```js
+javascript:(function(){prompt("Here is your access token:",$J("[data-loyaltystore]").data("loyaltystore").webapi_token);})()
+```
+4. Use the OAuth token in this bot, replace it with "YOUR OAUTH TOKEN HERE"
 
 
 
