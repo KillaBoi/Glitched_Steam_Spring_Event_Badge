@@ -6,7 +6,7 @@ Requirements for self hosting:
 
 
 Requirements for Python Script:
- -PYTHON (MAKE SURE TO INSTALL IT TO PATH! ITS A TICKBOX AT THE BEGINNING OF THE INSTALLATION!)
+- PYTHON (MAKE SURE TO INSTALL IT TO PATH! ITS A TICKBOX AT THE BEGINNING OF THE INSTALLATION!)
 - You need to have at least 1000 Steam Points.
 - run `pip install requests` in cmd
 - run `pip install json` in cmd
