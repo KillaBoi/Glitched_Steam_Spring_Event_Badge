@@ -1,13 +1,19 @@
 # Glitched Steam Spring Sale 2019 Badge
-Requirements for self hosting:
-- You need to have at least 1000 Steam Points.
+
+There are 2 methods for doing the glitch:
+- Self hosting/using script 
+OR
+- Going to [2Eggs.me](https://2eggs.me) and using the client sided webpage to do your glitching. This will be easier and you can self host this too if you're not sure about it's contents.
+
+Requirements for *self hosting*:
+- You need to have at least **1000 Steam Points**.
 - NO INSTALLATION REQUIREMENTS, JUST UPLOAD TO YOUR OWN HOSTING PROVIDER OR EVEN RUN LOCALLY BECAUSE THAT WORKS!
 
 
 
-Requirements for Python Script:
-- PYTHON (MAKE SURE TO INSTALL IT TO PATH! ITS A TICKBOX AT THE BEGINNING OF THE INSTALLATION!)
-- You need to have at least 1000 Steam Points.
+Requirements for *Python Script*:
+- **PYTHON** (MAKE SURE TO INSTALL IT TO PATH! ITS A TICKBOX AT THE BEGINNING OF THE INSTALLATION!)
+- You need to have at least **1000 Steam Points**.
 - run `pip install requests` in cmd
 - run `pip install json` in cmd
 
