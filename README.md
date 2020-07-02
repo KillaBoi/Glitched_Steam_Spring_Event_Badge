@@ -29,7 +29,7 @@ javascript:(function(){prompt("Here is your access token:",$J("[data-loyaltystor
 ```
 4. Use the OAuth token in this bot, replace it with "YOUR OAUTH TOKEN HERE"
 
-(credits to [Revadike](https://github.com/Revadike) for the OAUTH instructions)
+*(credits to [Revadike](https://github.com/Revadike) for the OAUTH instructions)*
 
 
 
