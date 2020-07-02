@@ -1,9 +1,14 @@
 # Glitched Steam Spring Sale 2019 Badge
 
-There are 2 methods for doing the glitch:
-- Self hosting/using script 
-OR
-- Going to [2Eggs.me](https://2eggs.me) and using the client sided webpage to do your glitching. This will be easier and you can self host this too if you're not sure about it's contents.
+![Glitched Badge](https://i.imgur.com/1fAeusz.png)
+
+
+
+
+There are **2** methods for doing the glitch:
+- Using the included Python Script 
+**OR**
+- Going to [**2Eggs.me**](https://2eggs.me) and using the client sided webpage to do your glitching. This will be easier and you can self host this too if you're not sure about it's contents.
 
 Requirements for *self hosting*:
 - You need to have at least **1000 Steam Points**.
