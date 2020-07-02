@@ -6,24 +6,24 @@
 
 
 There are **2** methods for doing the glitch:
-- Using the included Python Script 
-**OR**
-- Going to [**2Eggs.me**](https://2eggs.me) and using the client sided webpage to do your glitching. This will be easier and you can self host this too if you're not sure about it's contents.
+- Using the included Python Script<br/><br/>
+**OR**<br/><br/>
+- Going to [**2Eggs.me**](https://2eggs.me) and using the client sided webpage to do your glitching. This will be easier and you can self host this too if you're not sure about it's contents.<br/><br/>
 
 Requirements for *self hosting*:
 - You need to have at least **1000 Steam Points**.
 - NO INSTALLATION REQUIREMENTS, JUST UPLOAD TO YOUR OWN HOSTING PROVIDER OR EVEN RUN LOCALLY BECAUSE THAT WORKS!
 
-
+<br/>
 
 Requirements for *Python Script*:
 - **PYTHON** (MAKE SURE TO INSTALL IT TO PATH! ITS A TICKBOX AT THE BEGINNING OF THE INSTALLATION!)
 - You need to have at least **1000 Steam Points**.
 - run `pip install requests` in cmd
-- run `pip install json` in cmd
+- run `pip install json` in cmd <br/>
 
-Replace **key = "YOUR OAUTH TOKEN"** with your oauth token, look below for instructions. Replace **('num_levels', 'REPLACE_ME_WITH_NUMBER')** with the number of badge levels you want to craft in a row, 1 being the minimum.
-
+Replace **key = "YOUR OAUTH TOKEN"** with your oauth token, look below for the instructions for obtaining your OAUTH token.<br/> Replace **('num_levels', 'REPLACE_ME_WITH_NUMBER')** with the number of badge levels you want to craft in a row, 1 being the minimum.
+<br/><br/>
 ## Obtaining OAUTH token:
 
 1. Go to [Steam Points Shop](https://store.steampowered.com/points/shop).
@@ -34,7 +34,7 @@ javascript:(function(){prompt("Here is your access token:",$J("[data-loyaltystor
 ```
 4. Use the OAuth token in this bot, replace it with "YOUR OAUTH TOKEN HERE"
 
-*(credits to [Revadike](https://github.com/Revadike) for the OAUTH instructions)*
+*(credits to [Revadike](https://github.com/Revadike) for the easy OAUTH obtaining instructions)*
 
 
 
