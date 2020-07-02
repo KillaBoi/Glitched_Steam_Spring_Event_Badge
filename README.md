@@ -6,6 +6,7 @@
 
 
 
+<br/>
 
 There are **2** methods for doing the glitch:
 - Using the included Python Script<br/><br/>
