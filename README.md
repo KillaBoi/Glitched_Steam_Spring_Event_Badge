@@ -1,7 +1,5 @@
 # Glitched Steam Spring Sale 2019 Badge
 <br/>
-<br/>
-<br/>
 <p align="center">
   <img src="https://i.imgur.com/1fAeusz.png" />
 </p>
