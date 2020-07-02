@@ -24,8 +24,8 @@ Requirements for *Python Script*:
 - You need to have at least **1000 Steam Points**.
 - run `pip install requests` in cmd
 - run `pip install json` in cmd <br/>
-
-Replace **key = "YOUR OAUTH TOKEN"** with your oauth token, look below for the instructions for obtaining your OAUTH token.<br/> Replace **('num_levels', 'REPLACE_ME_WITH_NUMBER')** with the number of badge levels you want to craft in a row, 1 being the minimum.
+- Replace **key = "YOUR OAUTH TOKEN"** with your oauth token, look below for the instructions for obtaining your OAUTH token.
+- Replace **('num_levels', 'REPLACE_ME_WITH_NUMBER')** with the number of badge levels you want to craft in a row, 1 being the minimum.
 <br/><br/>
 ## Obtaining OAUTH token:
 
