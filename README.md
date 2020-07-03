@@ -1,4 +1,6 @@
 # Glitched Steam Spring Sale 2019 Badge
+## Valve patched this METHOD on the 3rd of July 2020. The badge still exists.
+
 <br/>
 <p align="center">
   <img src="https://i.imgur.com/1fAeusz.png" />
